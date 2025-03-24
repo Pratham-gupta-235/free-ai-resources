@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/license/mrsaeeddev/free-ai-resources" alt="License Badge"/>
 <img src="https://img.shields.io/github/stars/mrsaeeddev/free-ai-resources?style=social" alt="Stars Badge"/>
 
-> A curated list of FREE AI RESOURCES for aspiring AI Engineers
+> A Curated list of FREE AI RESOURCES for aspiring AI Engineers
 
 <hr />
 <a href="http://saeed.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
